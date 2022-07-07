@@ -1,0 +1,9 @@
+Um professor deseja armazenar o nome, as notas e a média dos alunos de sua turma. Para isso, foi solicitado um programa para resolver o problema
+Como a disciplina está em andamento, o professor quer informar ao programa o número de alunos da turma. Para compor a média, o professor irá utilizar três notas.
+O professor deseja um relatório da seguinte forma:
+- Listar nome e a média de cada aluno;
+- Mostrar o nome do aluno com a maior média da turma;
+- Informar quantos alunos obtiveram nota 10 em alguma nota.
+- Mostrar os alunos aprovados, considerando a média mínima de 8.0 como aprovação.
+Crie um programa em C, dividindo as tarefas em funções, baseando-se na abordagem top-down. 
+Utilize uma struct para armazenar os dados e um vetor da estrutura com a quantidade de alunos que o professor irá informar.
